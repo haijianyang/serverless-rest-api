@@ -1,0 +1,17 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+*.log
+log
+.vscode
+.DS_Store
+playground.js
+.nyc_output
+coverage
+/test.js
+dynamodb
+.dynamodb

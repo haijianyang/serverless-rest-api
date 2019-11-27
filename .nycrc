@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "src/config/*",
+    "src/scheme/*",
+    "src/model/*"
+  ]
+}

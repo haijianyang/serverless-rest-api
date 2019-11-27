@@ -1,0 +1,8 @@
+--timeout 5000
+--reporter list
+--ui bdd
+--recursive
+--exclude test.js test/helper
+--exit
+test/bootstrap.js
+test/**/*.js
