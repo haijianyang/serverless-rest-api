@@ -24,7 +24,7 @@
     "ioredis": "^4.14.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.529.0",
+    "aws-sdk": "^2.814.0",
     "babel-eslint": "^10.0.1",
     "bluebird": "^3.5.5",
     "chai": "^4.2.0",
